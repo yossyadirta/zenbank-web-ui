@@ -13,7 +13,7 @@ import {
   send,
   shield,
   star,
-} from "../assets";
+} from "../assets/index";
 
 export const navLinks = [
   {
